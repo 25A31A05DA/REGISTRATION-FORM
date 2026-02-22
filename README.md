@@ -41,10 +41,7 @@ ___
 ## Live Demo
 
 View Live:  
-https://yourusername.github.io/repositoryname/
-
-GitHub:  
-https://github.com/yourusername
+https://25a31a05da.github.io/REGISTRATION-FORM/
 
 ___
 
